@@ -2,16 +2,6 @@
 
 ### Olá eu sou o Dave, desenvolvedor fullstack MEVN👋
 
-##Tecnologias: 
-###Node
-###vue
-###express
-###react
-###webpack
-###html
-###css
-##
-
 <!--
 **Dave-Costa/Dave-Costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
