@@ -54,17 +54,6 @@
 
 <hr/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">
-  Me as a code... 
-  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
-</p>
-
-
-
-<hr/>
-
-
 
 <br/>
 
