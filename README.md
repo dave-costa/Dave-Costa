@@ -10,8 +10,6 @@
     Dave Costa
 </h2>
 
-<img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg"/>
-
 <p align="left">
   <samp>
     <br><br>
