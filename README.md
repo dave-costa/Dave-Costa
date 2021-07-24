@@ -28,8 +28,4 @@
 
 <hr/>
 
-<h3> :earth_americas: &nbsp;Find me: </h3> 
-
-[![Linkedin: Dave Costa](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dorivaldocosta)](https://www.linkedin.com/in/dorivaldocosta/)
-[![Gmail Badge](https://img.shields.io/badge/-call me-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dorivaldo.programador@gmail.com)](mailto:dorivaldo.programador@gmail.com)
-<hr/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dave-costa&show_icons=true)
