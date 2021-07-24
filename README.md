@@ -10,8 +10,8 @@
     Dave Costa
 </h2>
 <p>Enthusiast of technologies and programming for web development</p>
-- 🤔 &nbsp; Front-end developer And mobile developer
-- 💼 &nbsp; Working as a front-end developer
+<p>- 🤔 &nbsp; Front-end developer And mobile developer</p>
+<p>- 💼 &nbsp; Working as a front-end developer</p>
 <hr/>
 🚀 My Skills
 <br/>
