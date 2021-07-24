@@ -9,7 +9,7 @@
     <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
     Dave Costa
 </h2>
-Enthusiast of technologies and programming for web development
+<p>Enthusiast of technologies and programming for web development</p>
 - 🤔 &nbsp; Front-end developer And mobile developer
 - 💼 &nbsp; Working as a front-end developer
 <hr/>
@@ -30,6 +30,6 @@ Enthusiast of technologies and programming for web development
 
 <h3> :earth_americas: &nbsp;Find me: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/dorivaldocosta/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:dorivaldo.programador@gmail.com)
+[![Linkedin: Dave Costa](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dorivaldocosta)](https://www.linkedin.com/in/dorivaldocosta/)
+[![Gmail Badge](https://img.shields.io/badge/-call me-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dorivaldo.programador@gmail.com)](mailto:dorivaldo.programador@gmail.com)
 <hr/>
