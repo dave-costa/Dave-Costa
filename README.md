@@ -27,5 +27,3 @@
 <code><img height="32" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="router"/></code>
 
 <hr/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dave-costa&show_icons=true)
