@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dorivaldo.programador@gmail.com**
 
-- 📄 Know about my experiences: as a full stack developer with experience in several technologies, I have skills in building scalable and robust systems, both frontend and backend. In addition, my leadership skills and interpersonal skills have allowed me to contribute to the success of the teams I worked with. I am passionate about technology and I have the ability to adapt quickly to new environments and challenges, always looking to learn and grow as a professional.
+- 📄 Know about my experiences: **as a full stack developer with experience in several technologies, I have skills in building scalable and robust systems, both frontend and backend. In addition, my leadership skills and interpersonal skills have allowed me to contribute to the success of the teams I worked with. I am passionate about technology and I have the ability to adapt quickly to new environments and challenges, always looking to learn and grow as a professional.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
