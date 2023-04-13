@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [COMEIA](https://www.comeialabs.com.br)
 
-- 🌱 I’m currently learning **Micro-services, Design Patterns, Architecture, Leadership, Code Patterns...**
+- 🌱 I’m currently learning **Micro-services, Design Patterns, Architecture, Leadership, Code Patterns ++**
 
 - 📝 I regularly write articles on [linkedin.com/in/dorivaldocosta](linkedin.com/in/dorivaldocosta)
 
-- 💬 Ask me about **Frontend And Backend. Javascript/ Typescript, HTML & CSS, Best Practices, Design Patterns, Frameworks Frontend And Backend**
+- 💬 Ask me about **frontend and backend. Javascript/ typescript, html & css, best practices, design patterns, frameworks frontend and backend**
 
 - 📫 How to reach me **dorivaldo.programador@gmail.com**
 
