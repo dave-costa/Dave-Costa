@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
 <h3 align="center">A Full Stack Developer focusing on JS</h3>
 
-- 🔭 I’m currently working on [COMEIA](https://www.comeialabs.com.br)
+- 🔭 I’m currently working on [RETAILHUB](https://www.retailhub.com.br/)
 
 - 🌱 I’m currently learning **Micro-services, Design Patterns, Architecture, Leadership, Code Patterns ++**
 
